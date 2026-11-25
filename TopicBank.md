@@ -18,3 +18,24 @@ Team interest: 5/5
 
 Feasibility: 4/5
 
+
+ParkWise: A Smart Parking Slot Availability and Navigation System
+
+Idea: A web-based system that shows drivers which parking spaces are available and guides them to an available slot.
+
+Problem it addresses: Drivers waste time and fuel searching for vacant parking spaces, especially in crowded parking lots.
+
+Closest existing work: Smart parking guidance systems and parking availability applications that display vacant spaces in real time.
+
+Data needed: Parking slot IDs, occupied or vacant status, timestamps, and parking lot layout.
+
+Compute needed: Laptop, PHP, MySQL, JavaScript
+
+Biggest risk: Obtaining accurate, real-time parking occupancy data. Without sensors, a camera, or reliable manual updates, availability information may become outdated.
+
+Team interest: 5/5
+
+Feasibility: 4/5
+
+
+
